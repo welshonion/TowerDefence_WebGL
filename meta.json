@@ -3,5 +3,6 @@
     "tags":["ゲーム","タワーディフェンス"],
     "developer":"タワーディフェンス製作委員会",
     "description": "ここは大勢のペンギンが大海原を駆け回る世界。あなただけの船を作りあげ，波揺れる海戦を征しましょう！",
-    "zip":"TowerDefence.zip"
+    "zip":"TowerDefence.zip",
+    "option":["new"]
 }
