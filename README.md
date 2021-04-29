@@ -8,4 +8,4 @@
 - ジャンル：2Dタワーディフェンス
 - 制作：2020年5月
 - Unityバージョン：2019.3.11f1
-- 作業リポジトリ/skip3skip3/TowerDefence
+- 作業リポジトリ：/skip3skip3/TowerDefence
