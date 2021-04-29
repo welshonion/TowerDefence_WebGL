@@ -1,4 +1,4 @@
-# TowerDefence_Web
+# TowerDefence_WebGL
 
 合作で制作したゲームのWebGLビルド
 
