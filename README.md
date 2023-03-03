@@ -1,6 +1,6 @@
 # TowerDefence_WebGL
 
-合作で制作したゲームのWebGLビルド
+部活動の合作企画で制作したゲームのWebGLビルド
 
 ## 説明
 
